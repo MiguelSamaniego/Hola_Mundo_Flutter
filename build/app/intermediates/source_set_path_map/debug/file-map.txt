@@ -1,0 +1,12 @@
+com.example.flutter_application_2.app-jetified-window-java-1.0.0-beta04-0 /home/miguel/.gradle/caches/transforms-3/19ff66f031cb422764b0da25d9d6bdb4/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.flutter_application_2.app-jetified-annotation-experimental-1.1.0-1 /home/miguel/.gradle/caches/transforms-3/55b58230e55ac19e11de59e32a6117b3/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.flutter_application_2.app-core-1.6.0-2 /home/miguel/.gradle/caches/transforms-3/bbbbd632898af927049fa4f571ee9e7e/transformed/core-1.6.0/res
+com.example.flutter_application_2.app-jetified-window-1.0.0-beta04-3 /home/miguel/.gradle/caches/transforms-3/d97cf3ffa6f05f8e8de8b41da1cca67f/transformed/jetified-window-1.0.0-beta04/res
+com.example.flutter_application_2.app-debug-4 /home/miguel/Escritorio/Soluciones Territoriales/flutter_application_2/android/app/src/debug/res
+com.example.flutter_application_2.app-main-5 /home/miguel/Escritorio/Soluciones Territoriales/flutter_application_2/android/app/src/main/res
+com.example.flutter_application_2.app-pngs-6 /home/miguel/Escritorio/Soluciones Territoriales/flutter_application_2/build/app/generated/res/pngs/debug
+com.example.flutter_application_2.app-resValues-7 /home/miguel/Escritorio/Soluciones Territoriales/flutter_application_2/build/app/generated/res/resValues/debug
+com.example.flutter_application_2.app-rs-8 /home/miguel/Escritorio/Soluciones Territoriales/flutter_application_2/build/app/generated/res/rs/debug
+com.example.flutter_application_2.app-mergeDebugResources-9 /home/miguel/Escritorio/Soluciones Territoriales/flutter_application_2/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.flutter_application_2.app-mergeDebugResources-10 /home/miguel/Escritorio/Soluciones Territoriales/flutter_application_2/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.flutter_application_2.app-merged_res-11 /home/miguel/Escritorio/Soluciones Territoriales/flutter_application_2/build/app/intermediates/merged_res/debug
